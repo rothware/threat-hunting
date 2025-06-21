@@ -1,14 +1,21 @@
-# 🛡️ Threat Report: AsyncRAT – Stealth, Persistence, and Full Remote Access
+svg
+c7035b968360dbb2835352450a225286cdc3e3cd23507aaadd823266a1e31039
 
-## 📌 Overview
+hiperlink
+https://cdn.discordapp.com/attachments/1382388669867884717/1385667204573564928/01_Documentos_de_la_demanda_juzgado_penal_de_control_de_garantias_2.zip?ex=6856e6a6&is=68559526&hm=c9899ba0aa53ca6b00495177e673482002e6cf50705c378313d3d20376afcd30&?id=78eed60f-6ca0-4ce5-a442-177b24de0c9d
+cdn.discordapp.com
 
-**AsyncRAT** is a widely abused remote access trojan (RAT) known for its stealth, persistence, and versatility. Originally developed as an open-source tool for legitimate remote administration, it has become a frequent component in malware campaigns involving credential theft, espionage, and post-infection payload delivery.
+zip password kyTLjPk
+be742a02aa3d1ee61ada639d4069b8bc2ce6b101caa1662028980389736fd4fe
 
-This report documents an active AsyncRAT campaign leveraging Discord's CDN and social engineering tactics to deliver malware. The campaign includes multiple payloads and command-and-control (C2) infrastructure. Below, you'll find a full breakdown of Indicators of Compromise (IOCs), TTPs, and suggested mitigation strategies.
 
----
+exe
+829e7dff6a229fba6f0b51ec344cad5d5ffe35ae6e747600fd6660d9ada349e5
 
-## 🧪 Indicators of Compromise (IOCs)
+dll
+85cc9928363eb10ed90785a217d5f51e37a22efa4a7f30bdb8bc82ab2fa1267e
 
-### 🔗 Malicious Download Links
+c2
+ansy10jun.duckdns.org
+178.73.192.15
 
