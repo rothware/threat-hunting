@@ -1,0 +1,14 @@
+# 🛡️ Threat Report: AsyncRAT – Stealth, Persistence, and Full Remote Access
+
+## 📌 Overview
+
+**AsyncRAT** is a widely abused remote access trojan (RAT) known for its stealth, persistence, and versatility. Originally developed as an open-source tool for legitimate remote administration, it has become a frequent component in malware campaigns involving credential theft, espionage, and post-infection payload delivery.
+
+This report documents an active AsyncRAT campaign leveraging Discord's CDN and social engineering tactics to deliver malware. The campaign includes multiple payloads and command-and-control (C2) infrastructure. Below, you'll find a full breakdown of Indicators of Compromise (IOCs), TTPs, and suggested mitigation strategies.
+
+---
+
+## 🧪 Indicators of Compromise (IOCs)
+
+### 🔗 Malicious Download Links
+
